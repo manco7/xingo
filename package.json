@@ -1,0 +1,20 @@
+{
+  "name": "xingo",
+  "version": "1.0.0",
+  "description": "\"# Xingo ��Ŀ\"",
+  "homepage": "https://github.com/manco7/xingo#readme",
+  "bugs": {
+    "url": "https://github.com/manco7/xingo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manco7/xingo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
